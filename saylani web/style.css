@@ -1,0 +1,206 @@
+
+.navbar {
+   background-color: #339966;
+   color: #ffffff;
+ }
+ 
+ .navbar-brand img {
+   max-width: 100px;
+ }
+ 
+ .nav-link {
+   color: #1e1a1a !important;
+ }
+ .navbar-text{
+   margin-inline-start: 50px;
+ }
+ .logo{
+   width: 70px;
+ }
+ /* Main Content */
+ .container {
+   padding-top: 20px;
+ }
+ .emailpng{
+   width: 30px;
+   padding: 5px;
+ }
+ .callpng{
+   width: 30px;
+   padding: 5px;
+ }
+ .contactcontainer{
+   background-color: rgb(161, 160, 160);
+ }
+
+ 
+ h1 {
+   font-size: 2.5rem;
+ }
+ 
+ .color_theme_green {
+   color: #171717;
+ }rgb(18, 19, 18)
+ 
+ .photo1 {
+   max-width: 100%;
+ }
+ 
+ /* Explore Button */
+ .Explore {
+   margin-top: 20px;
+   background-color: #339966;
+   color: #ffffff;
+   padding: 10px 30px;
+   font-size: 1.2rem;
+   border: none;
+   border-radius: 5px;
+ }
+ 
+ /* Carousel */
+ .carousel-control-prev,
+ .carousel-control-next {
+   width: 20px;
+ }
+ 
+ /* What We Are Doing */
+ .whatwearedoing {
+   font-size: 2.5rem;
+   color: #0f1110;
+   margin-top: 20px;
+ }
+ 
+ .ulpop {
+   list-style: none;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+ }
+ 
+ .ulpop li {
+   margin: 20px;
+ }
+ 
+ .ulpop img {
+   max-width: 100px;
+ }
+ 
+ /* Image Gallery */
+ .bp1 {
+   margin: 10px;
+   max-width: 300px;
+ }
+ 
+ /* Media Updates */
+ h1 {
+   color: #339966;
+   font-size: 2.5rem;
+ }
+.donateimg{
+   max-width: 100%;
+}
+.emailbox{
+  max-width: 100%;
+  width: 1120px;
+  height: 300px;
+}
+.container mt-3{
+  gap: 20px;
+  padding-bottom: 30px;
+  margin: 0%;
+  padding: 0;
+}
+ /* Footer */
+ footer {
+   background-color: #339966;
+   color: #ffffff;
+   text-align: center;
+   padding: 10px;
+   align-content: center;
+ }
+ 
+ /* Responsive CSS */
+ 
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) {
+   .navbar-brand img {
+     max-width: 150px;
+   }
+ }
+ 
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) {
+   .whatwearedoing {
+     font-size: 3rem;
+   }
+ }
+ /* Custom Styles for the Image Gallery */
+.container {
+  padding-top: 20px;
+}
+
+.bp1 {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+/* Responsive CSS */
+@media (max-width: 576px) {
+  .bp1 {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  .bp1 {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .bp1 {
+    max-width: 100%;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .bp1 {
+    max-width: 100%;
+  }
+}
+.subbtn{
+  padding-left: 70%;
+  padding-right: 120%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-top: 5px;
+  align-items: center;
+}
+.input{
+  padding: 8px 37% 8px 60%;
+}
+.embox{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-right: 90px;
+}
+.embox1{
+  position: relative;
+  text-align: center;
+  color: black;
+}
+.saylaniguaid{
+  color: rgb(248, 241, 241);
+  font-size: 50px;
+}
+.insub{
+  margin-right: 60%;
+}
+.footerltr{
+  background-color: #8d9d95;
+}
+
+ 
